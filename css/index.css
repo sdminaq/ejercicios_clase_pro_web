@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #BCBDC0;
+}
+
+.name{
+    width: 100%;
+    height: 200px;
+    background: #F5D3C8;
+    transform: skewY(-3deg);
+}
+
+.name .content{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+}
+
+.name .content .p-1{
+    font-family: 'Klee One', cursive;
+    font-weight: bolder;
+    font-size: 40px;
+    transform: skewY(3deg);
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.name .content .p-2{
+    font-family: 'Klee One', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    transform: skewY(3deg);
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.name .img{
+    position: absolute;
+    top: 18%;
+    right: 5%;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    transform: skewY(3deg);
+    overflow: hidden;
+}
+
+.name .img img{
+    width: 180px;
+    height: 240px;
+    transform: skewY(20deg);
+}
+
+.infpersonal{
+    width: 90%;
+    height: auto;
+    background: #F5D3C8;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.infpersonal .titulosec{
+    color: #565856;
+    font-family: 'Klee One', cursive;
+    font-weight: bold;
+    font-size: xx-large; 
+    text-align: center;
+    margin-top: 0;
+    border-bottom: 2px #BCBDC0 dashed;
+}
+
+.infpersonal .textname{
+    color: #565856;
+    font-family: 'Klee One', cursive;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.infpersonal .textinf{
+    font-family: 'Klee One', cursive;
+    font-weight: bold;
+    font-size: large;
+    display: inline;
+}
