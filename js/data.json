@@ -1,0 +1,103 @@
+{
+    "estudiantes":[
+       {
+          "nombre":"Fulanito de tal",
+          "github":"https://github.com/mirepositorio",
+          "neocites":"miportafolio.neocities.org",
+          "email":"estudiante@dominio.com",
+          "telefono":"3125678900",
+          "imagen": "240_F_271759777_Scp5nDIGSytTf3gTiLON8eIvjiqUko43.jpg",
+          "actividades":[
+             {
+                "actividad":"actividad 1",
+                "estadouiux":"5%",
+                "estadotecnico":"2%"
+             },
+             {
+                "actividad":"actividad 1",
+                "estadouiux":"5%",
+                "estadotecnico":"2%"
+             },
+             {
+                "actividad":"actividad 1",
+                "estadouiux":"5%",
+                "estadotecnico":"2%"
+             }
+          ],
+          "valoraciones":{
+             "val-html":"3%",
+             "val-css":"4%",
+             "val-js":"6%",
+             "val-ui":"4%",
+             "val-ux":"9%"
+          },
+          "calificacion":"54%"
+       },
+       {
+          "nombre":"Fulanito de tal",
+          "github":"https://github.com/mirepositorio",
+          "neocites":"miportafolio.neocities.org",
+          "email":"estudiante@dominio.com",
+          "telefono":"3125678900",
+          "imagen": "240_F_271759777_Scp5nDIGSytTf3gTiLON8eIvjiqUko43.jpg",
+          "actividades":[
+             {
+                "actividad":"actividad 1",
+                "estadouiux":"5%",
+                "estadotecnico":"2%"
+             },
+             {
+                "actividad":"actividad 1",
+                "estadouiux":"5%",
+                "estadotecnico":"2%"
+             },
+             {
+                "actividad":"actividad 1",
+                "estadouiux":"5%",
+                "estadotecnico":"2%"
+             }
+          ],
+          "valoraciones":{
+             "val-html":"3%",
+             "val-css":"4%",
+             "val-js":"6%",
+             "val-ui":"4%",
+             "val-ux":"9%"
+          },
+          "calificacion":"54%"
+       },
+       {
+          "nombre":"Fulanito de tal",
+          "github":"https://github.com/mirepositorio",
+          "neocites":"miportafolio.neocities.org",
+          "email":"estudiante@dominio.com",
+          "telefono":"3125678900",
+          "imagen": "240_F_271759777_Scp5nDIGSytTf3gTiLON8eIvjiqUko43.jpg",
+          "actividades":[
+             {
+                "actividad":"actividad 1",
+                "estadouiux":"5%",
+                "estadotecnico":"2%"
+             },
+             {
+                "actividad":"actividad 1",
+                "estadouiux":"5%",
+                "estadotecnico":"2%"
+             },
+             {
+                "actividad":"actividad 1",
+                "estadouiux":"5%",
+                "estadotecnico":"2%"
+             }
+          ],
+          "valoraciones":{
+             "val-html":"3%",
+             "val-css":"4%",
+             "val-js":"6%",
+             "val-ui":"4%",
+             "val-ux":"9%"
+          },
+          "calificacion":"54%"
+       }
+    ]
+ }
