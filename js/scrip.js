@@ -23,6 +23,7 @@ function plantilla(estudiante){
         </div>
         
             <div>
+            
                 <span>${estudiante.actividades[0].actividad}</span>
                 <span>${estudiante.actividades[0].estadouiux}</span>
                 <span>${estudiante.actividades[0].estadotecnico}</span>

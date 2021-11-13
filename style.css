@@ -20,6 +20,7 @@
    display: flex;
    align-items: end;
    position: absolute;
+   
  }
 
  .tree img{
@@ -32,7 +33,6 @@
    top: 400px;
    left: 400px;
    display: inline;
-  
  }
 
  main{
@@ -67,7 +67,6 @@
   position: relative;
   z-index: 20;
 }
-
 .main-menu li{
    list-style: none;
    margin: 10px;
