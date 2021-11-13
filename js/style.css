@@ -1,13 +1,18 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Gochi Hand', cursive;
     color: #F1DEDE;
+    background-image: url("240_F_442532169_KiMd12GTkhxf58c7wLgxTMmRSwRDcleI.jpg");
   }
   
   .principal{
     padding: 16px;
     display: flex;
     flex-direction: column;
-    background-color: #1E2019;
+    background-color: #472d30;
+    border-radius: 30px;
+    padding: 30px;
+    margin: 30px;
+    
   }
   
   .informa{
@@ -21,18 +26,20 @@ body{
   }
   
   a:hover{
-    color:#E2C044;
+    color:#ffe1a8;
   }
   
   .izquierda{
     flex-grow: 1;
     font-size: 2rem;
+    
   }
   
   .izquierda p{
     font-size: 3rem;
     font-weight: 700;
-    color:#E2C044;
+    color:#ffe1a8;
+   
   }
   
   
@@ -42,13 +49,16 @@ body{
   }
   
   .img img{
-    width: 100%;
-    height: 100%;
+    width: 90%;
+    height: 90%;
+    border-radius: 100%;
     
   }
   
   .actividades{
     text-align: center;
+    margin: 30px;
+    margin-top: 0;
   }
   
   .actividades div{
@@ -63,18 +73,20 @@ body{
     border-style: solid;
     border-left: 1px;
     border-right: 1px;
+    
   }
   
   .porcent{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    margin: 30px;
   }
   
   .valoracion{
     width: 40px;
     height: 40px;
-    background-color: #587B7F;
+    background-color: #ffe1a8;;
     color: #1E2019;
     border-radius: 10px;
     overflow: hidden;
