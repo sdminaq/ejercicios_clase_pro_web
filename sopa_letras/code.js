@@ -1,0 +1,33 @@
+"use strict"
+window.addEventListener("load", () => {
+$(document).ready(function(){
+    $(".hom").hover(function(){
+        $(this).addClass('resaltar');
+    });
+});
+$(document).ready(function(){
+    $(".oso").hover(function(){
+        $(this).addClass('resaltar');
+    });
+});
+$(document).ready(function(){
+    $(".pez").hover(function(){
+        $(this).addClass('resaltar');
+    });
+});
+$(document).ready(function(){
+    $(".me").hover(function(){
+        $(this).addClass('resaltar');
+    });
+});
+$(document).ready(function(){
+    $(".ara").hover(function(){
+        $(this).addClass('resaltar');
+    });
+});
+$(document).ready(function(){
+    $(".ko").hover(function(){
+        $(this).addClass('resaltar');
+    });
+});
+})
