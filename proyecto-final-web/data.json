@@ -1,0 +1,122 @@
+[
+    {
+        "name" : "Agenda y chocolates",
+        "category" : "Dulces",
+        "price" : "58.000",
+        "imgSrc" : "imag/agenda-chocolate.jpg"
+    },
+    {
+        "name" : "Bicicleta y Flores",
+        "category" : "Kit",
+        "price" : "700,000",
+        "imgSrc" : "imag/bici-flor.jpg"
+    },
+    {
+        "name" : "Donas",
+        "category" : "Dulces",
+        "price" : "30.000",
+        "imgSrc" : "imag/donas.jpg"
+    },
+    {
+        "name" : "Decoración",
+        "category" : "Cumpleaños",
+        "price" : "200.000",
+        "imgSrc" : "imag/cumple-vejez.jpg"
+    },
+    {
+        "name" : "Hamster y Cerdito",
+        "category" : "Peluches",
+        "price" : "100,000",
+        "imgSrc" : "imag/cerdo-hams.jpg"
+    },
+    {
+        "name" : "Conejo",
+        "category" : "Peluches",
+        "price" : "90.000",
+        "imgSrc" : "imag/conejo-peluche.jpg"
+    },
+    {
+        "name" : "Osito",
+        "category" : "Peluches",
+        "price" : "85.000",
+        "imgSrc" : "imag/oso.jpg"
+    },
+    {
+        "name" : "Monito",
+        "category" : "Peluches",
+        "price" : "37.000",
+        "imgSrc" : "imag/monito.jpg"
+    },
+    {
+        "name" : "Helado",
+        "category" : "Dulces",
+        "price" : "49.000",
+        "imgSrc" : "imag/helado-barq.jpg"
+    },
+    {
+        "name" : "Paletas",
+        "category" : "Dulces",
+        "price" : "25.000",
+        "imgSrc" : "imag/helado.jpg"
+    },
+    {
+        "name" : "Caja de Galletas",
+        "category" : "Dulces",
+        "price" : "79.000",
+        "imgSrc" : "imag/galletas-caja.jpg"
+    },
+    {
+        "name" : "Flores y Frutas",
+        "category" : "Kit",
+        "price" : "22.000",
+        "imgSrc" : "imag/futa-flores.jpg"
+    },
+    {
+        "name" : "Caja de Galletas",
+        "category" : "Dulces",
+        "price" : "55.000",
+        "imgSrc" : "imag/caja-galletas.jpg"
+    },
+    {
+        "name" : "Floes",
+        "category" : "Flores",
+        "price" : "99.000",
+        "imgSrc" : "imag/mano-flor.jpg"
+    },
+    {
+        "name" : "Decoración",
+        "category" : "Citas",
+        "price" : "150.000",
+        "imgSrc" : "imag/velada-romantica.jpg"
+    },
+    {
+        "name" : "Decoración",
+        "category" : "Matrimonio",
+        "price" : "159.000",
+        "imgSrc" : "imag/matrimonio.jpg"
+    },
+    {
+        "name" : "Caja de Galletas",
+        "category" : "Dulces",
+        "price" : "100.000",
+        "imgSrc" : "imag/caja-galleta-linda.jpg"
+    },
+    {
+        "name" : "Caja de Dulces",
+        "category" : "Dulces",
+        "price" : "190.000",
+        "imgSrc" : "imag/caja-sweet.jpg"
+    },
+    {
+        "name" : "Chocolates",
+        "category" : "Dulces",
+        "price" : "45.000",
+        "imgSrc" : "imag/caja-chocolate.jpg"
+    },
+    {
+        "name" : "Flores",
+        "category" : "Flores",
+        "price" : "28.000",
+        "imgSrc" : "imag/flor-naranja.jpg"
+    }
+]
